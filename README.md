@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Html5,Css3 and JavaScript**
 
-- 📫 How to reach me **alejandrod.perezn@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
